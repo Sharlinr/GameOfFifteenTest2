@@ -4,4 +4,5 @@ public class Panel {
 
     String name;
     int age;
+    //New comment
 }
